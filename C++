@@ -1,0 +1,7 @@
+CPP Reference : https://en.cppreference.com/w/
+Bosch C++     : https://eu.degreed.com/plan/698376?r=39291992&orgsso=rbeimain&utm_medium=email&utm_source=notificationemail&utm_campaign=recommendation&utm_content=ButtonInternalUrl
+Fluent C++    : https://www.fluentcpp.com/  |  https://www.fluentcpp.com/posts/
+C++ Tips      : https://abseil.io/tips/
+C++ Books     : https://github.com/ikoHSE/Books-1/tree/master/C%2B%2B
+C++ Articles  : https://www.cppstories.com/p/archive/
+Advanced C++  : https://dzone.com/articles/7-advanced-c-concepts-you-should-know
