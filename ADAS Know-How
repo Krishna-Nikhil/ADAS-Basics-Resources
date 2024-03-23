@@ -33,3 +33,6 @@
   - Machine Learning and Deep Learning: Knowledge of machine learning algorithms and deep learning architectures is important for developing advanced perception and decision-making algorithms in ADAS.
   - Signal Processing: Understanding signal processing techniques is necessary for filtering, preprocessing, and analyzing sensor data to extract relevant information for ADAS algorithms.
   - Control Systems: Familiarity with control theory and algorithms is essential for designing control strategies for tasks such as adaptive cruise control, lane-keeping assist, and collision avoidance in ADAS.	
+  - Localization & Mapping
+  - Path planning & Trajectory Optimization
+  - Simulation & Modeling
