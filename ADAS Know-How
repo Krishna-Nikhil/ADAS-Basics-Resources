@@ -1,0 +1,35 @@
+- Physics for ADAS:    
+  - Rectilinear Motion: Relevant. Ego vehicles often move along straight paths, especially on highways or in urban driving scenarios.
+  - Curvilinear Motion: Relevant. Ego vehicles frequently encounter curved paths, such as when navigating bends in the road or making turns at intersections.
+  - Angular Kinematics: Relevant. Understanding the rotational motion of vehicle components, such as wheels or steering mechanisms, is important for ego kinematics and ADAS.
+  - Relative Motion: Highly relevant. Understanding the relative motion of the ego vehicle with respect to other objects, such as other vehicles, pedestrians, or obstacles, is essential for ADAS functionality like collision avoidance and lane keeping.
+  - Differential Kinematics: Relevant. Differential kinematics is crucial for understanding how the velocities and accelerations of different parts of the vehicle, such as individual wheels or axles, contribute to overall vehicle motion.
+  - Kinematic Constraints: Relevant. Kinematic constraints play a role in understanding the limitations and capabilities of the vehicle's mechanical structure, such as its steering range or suspension characteristics.
+  - Motion Analysis: Relevant. Motion analysis techniques may be used in ADAS development for analyzing vehicle dynamics, detecting and tracking objects, and understanding driver behavior.
+	
+- Mathematics for ADAS
+  - Linear Algebra: Essential for understanding and manipulating multidimensional data commonly encountered in ADAS, such as sensor measurements, vehicle poses, and geometric transformations. Concepts like matrices, vectors, eigenvalues, and eigenvectors are particularly important.
+  - Calculus: Used extensively for modeling and analyzing dynamic systems, trajectory planning, and optimization in ADAS. Concepts such as derivatives, integrals, and differential equations are foundational.
+  - Probability and Statistics: Crucial for sensor fusion, probabilistic modeling, and decision-making in ADAS. Concepts like probability distributions, hypothesis testing, and Bayesian inference are widely used.
+  - Geometry and Trigonometry: Fundamental for understanding spatial relationships, object detection, and geometric transformations in ADAS. Concepts such as angles, distances, coordinate systems, and geometric transformations are commonly applied.
+	
+- Programming Languages in ADAS
+  - C++
+  - Python
+  - C
+  - Matlab
+
+- Frameworks used in ADAS
+  - Cuda
+  - OpenCL
+  - OpenCV
+  - TensorFlow
+  - PyTorch
+  - Carla
+	
+- Technologies/Expertise for ADAS
+  - Sensor Fusion: Understanding how to integrate data from various sensors such as LiDAR, radar, cameras, and ultrasonic sensors is crucial for building a comprehensive perception system in ADAS.
+  - Computer Vision: Proficiency in computer vision techniques is essential for tasks such as object detection, tracking, segmentation, and recognition from visual sensor data.
+  - Machine Learning and Deep Learning: Knowledge of machine learning algorithms and deep learning architectures is important for developing advanced perception and decision-making algorithms in ADAS.
+  - Signal Processing: Understanding signal processing techniques is necessary for filtering, preprocessing, and analyzing sensor data to extract relevant information for ADAS algorithms.
+  - Control Systems: Familiarity with control theory and algorithms is essential for designing control strategies for tasks such as adaptive cruise control, lane-keeping assist, and collision avoidance in ADAS.	
