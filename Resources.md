@@ -11,10 +11,10 @@ All the links here are not actual/complete resources. Some of them are links to 
 - [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
 ## ADAS
-#### Open Resources
+##### Open Resources
 - [GitHub Robotics Courses](https://github.com/mithi/robotics-coursework)
 - [IEEE Journals](https://ieeexplore.ieee.org/browse/periodicals/topic?selectedValue=Topic:Transportation)
-#### Company Resources
+##### Company Resources
 - [Aptiv](https://www.aptiv.com/en/insights/adas)
-#### Papers
+##### Papers
 - [DARPA Paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.20255)
