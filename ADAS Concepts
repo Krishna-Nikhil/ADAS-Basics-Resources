@@ -12,6 +12,8 @@
   - Calculus: Used extensively for modeling and analyzing dynamic systems, trajectory planning, and optimization in ADAS. Concepts such as derivatives, integrals, and differential equations are foundational.
   - Probability and Statistics: Crucial for sensor fusion, probabilistic modeling, and decision-making in ADAS. Concepts like probability distributions, hypothesis testing, and Bayesian inference are widely used.
   - Geometry and Trigonometry: Fundamental for understanding spatial relationships, object detection, and geometric transformations in ADAS. Concepts such as angles, distances, coordinate systems, and geometric transformations are commonly applied.
+  - Cordinate Systems - Linear(cartesian), spherical/angular, Frenet
+  - Cordinate Transformation - Angluar to Linear, Frenet to Cartesian (vice-versa)
 	
 - Programming Languages in ADAS
   - C++
